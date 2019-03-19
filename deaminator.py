@@ -2,7 +2,6 @@ __author__ = "Julie Krainer"
 __license__ = "GPL"
 __version__ = "1.0.1"
 __maintainer__ = "Julie Krainer"
-__email__ = "julie.krainer@ait.ac.at"
 
 import sys
 import argparse
